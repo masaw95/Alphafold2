@@ -6,7 +6,8 @@
 # Author: Diego Alvarez S. [dialvarezs@gmail.com]
 # Last modified: 2022-12-13
 #
-# Auther: Masa Watanabe (modefy to run with Docker)
+# Modified by Masa Watanabe  [m_watanabe@fhsu.edu]
+# - modify to run with Docker
 # Last modified: 2023-06-15
 #
 
